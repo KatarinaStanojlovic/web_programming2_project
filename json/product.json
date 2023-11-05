@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "naziv": "Americano",
+        "kategorijaID": 1,
+        "slika": {
+            "src":"img/americano.png",
+            "alt":"americano"
+        },
+        "kalorije":"15",
+        "cena":7
+    },
+    {
+        "id": 2,
+        "naziv": "Cappucino",
+        "kategorijaID": 1,
+        "slika": {
+            "src":"img/cappucino.png",
+            "alt":"cappucino"
+        },
+        "kalorije":"140 ",
+        "cena":9
+    },
+    {
+        "id": 3,
+        "naziv": "Caffe Latte",
+        "kategorijaID":1,
+        "slika": {
+            "src":"img/latte.png",
+            "alt":"latte"
+        },
+        "kalorije":"190 ",
+        "cena":10
+    },
+    {
+        "id": 4,
+        "naziv": "Mocha",
+        "kategorijaID": 1,
+        "slika": {
+            "src":"img/mocha.png",
+            "alt":"mocha"
+        },
+        "kalorije":"370 ",
+        "cena":12
+    },
+    {
+        "id": 5,
+        "naziv": "Iced Americano",
+        "kategorijaID":2,
+        "slika": {
+            "src":"img/iceAmericano.png",
+            "alt":"iceAmericano"
+        },
+        "kalorije":"15 ",
+        "cena":8
+    },
+    {
+        "id": 6,
+        "naziv": "Iced Espresso",
+        "kategorijaID": 2,
+        "slika": {
+            "src":"img/iceEspresso.png",
+            "alt":"iceEspresso"
+        },
+        "kalorije":"10 ",
+        "cena":8
+    },
+    {
+        "id": 7,
+        "naziv": "Iced Mocha",
+        "kategorijaID": 2,
+        "slika": {
+            "src":"img/iceMocha.png",
+            "alt":"iceMocha"
+        },
+        "kalorije":"350 ",
+        "cena":13
+    },
+    {
+        "id": 8,
+        "naziv": "Iced Vanilla Latte",
+        "kategorijaID": 2,
+        "slika": {
+            "src":"img/iceVanilaLatte.png",
+            "alt":"iceVanilaLatte"
+        },
+        "kalorije":"190",
+        "cena":15
+    },
+    {
+        "id": 9,
+        "naziv": "Chai Tea",
+        "kategorijaID": 3,
+        "slika": {
+            "src":"img/chaiTea.png",
+            "alt":"chaiTea"
+        },
+        "kalorije":"0 ",
+        "cena":6
+    },
+    {
+        "id": 10,
+        "naziv": "Honey Mint Tea",
+        "kategorijaID": 3,
+        "slika": {
+            "src":"img/honeyMintTea.png",
+            "alt":"honeyMintTea"
+        },
+        "kalorije":"130 ",
+        "cena":6
+    },
+    {
+        "id": 11,
+        "naziv": "Matcha Tea",
+        "kategorijaID": 3,
+        "slika": {
+            "src":"img/matchaTea.png",
+            "alt":"matchaTea"
+        },
+        "kalorije":"240 ",
+        "cena":12
+    },
+    {
+        "id": 12,
+        "naziv": "Royal Tea",
+        "kategorijaID": 3,
+        "slika": {
+            "src":"img/royalTea.png",
+            "alt":"royalTea"
+        },
+        "kalorije":"0 ",
+        "cena":13
+    },
+    {
+        "id": 13,
+        "naziv": "Iced Black Tea",
+        "kategorijaID": 4,
+        "slika": {
+            "src":"img/iceBlackTea.png",
+            "alt":"iceBlackTea"
+        },
+        "kalorije":"0 ",
+        "cena":18
+    },
+    {
+        "id": 14,
+        "naziv": "Iced Green Tea",
+        "kategorijaID": 4,
+        "slika": {
+            "src":"img/iceGreenTea.png",
+            "alt":"iceGreenTea"
+        },
+        "kalorije":"0 ",
+        "cena":18
+    },
+    {
+        "id": 15,
+        "naziv": "Iced Matcha Tea",
+        "kategorijaID": 4,
+        "slika": {
+            "src":"img/iceMatchaTea.png",
+            "alt":"iceMatchaTea"
+        },
+        "kalorije":"200 ",
+        "cena":18
+    },
+    {
+        "id": 16,
+        "naziv": "Iced Passion Tea",
+        "kategorijaID": 4,
+        "slika": {
+            "src":"img/icePassionTea.png",
+            "alt":"icePassionTea"
+        },
+        "kalorije":"0 ",
+        "cena":18
+    }
+]

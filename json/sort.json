@@ -1,0 +1,26 @@
+[
+    {
+        "vrednost": "cena-asc",
+        "naziv": "Price ASC"
+    },
+    {
+        "vrednost": "cena-desc",
+        "naziv": "Price DESC"
+    },
+    {
+        "vrednost": "naziv-asc",
+        "naziv": "Name ASC"
+    },
+    {
+        "vrednost": "naziv-desc",
+        "naziv": "Name DESC"
+    },
+    {
+        "vrednost": "kalorije-asc",
+        "naziv": "Calories ASC"
+    },
+    {
+        "vrednost": "kalorije-desc",
+        "naziv": "Calories DESC"
+    }
+]

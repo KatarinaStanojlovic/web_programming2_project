@@ -1,0 +1,326 @@
+[
+    {
+        "id": 1,
+        "naziv": "Americano",
+        "slika": {
+            "src":"img/americano.png",
+            "alt":"americano"
+        },
+        "velicineID":[
+            
+            {
+                "id":2,
+                "velicina":"Tall"
+            },
+            {
+                "id":3,
+                "velicina":"Grande"
+            }
+        ],
+        "cena":7
+    },
+    {
+        "id": 2,
+        "naziv": "Cappucino",
+        "slika": {
+            "src":"img/cappucino.png",
+            "alt":"cappucino"
+        },
+        "velicineID":[
+            {
+                "id":1,
+                "velicina":"Short"
+            },
+            {
+                "id":3,
+                "velicina":"Grande"
+            }
+        ],
+        "cena":9
+    },
+    {
+        "id": 3,
+        "naziv": "Caffe Latte",
+        "slika": {
+            "src":"img/latte.png",
+            "alt":"latte"
+        },
+        "velicineID":[
+            {
+                "id":1,
+                "velicina":"Short"
+            },
+            {
+                "id":2,
+                "velicina":"Tall"
+            }
+        ],
+        "cena":10
+    },
+    {
+        "id": 4,
+        "naziv": "Mocha",
+        "slika": {
+            "src":"img/mocha.png",
+            "alt":"mocha"
+        },
+        "velicineID":[
+            
+            {
+                "id":3,
+                "velicina":"Grande"
+            }
+        ],
+        "cena":12
+    },
+    {
+        "id": 5,
+        "naziv": "Iced Americano",
+        "slika": {
+            "src":"img/iceAmericano.png",
+            "alt":"iceAmericano"
+        },
+        "velicineID":[
+            {
+                "id":1,
+                "velicina":"Short"
+            },
+            {
+                "id":2,
+                "velicina":"Tall"
+            },
+            {
+                "id":3,
+                "velicina":"Grande"
+            }
+        ],
+        "cena":8
+    },
+    {
+        "id": 6,
+        "naziv": "Iced Espresso",
+        "slika": {
+            "src":"img/iceEspresso.png",
+            "alt":"iceEspresso"
+        },
+        "velicineID":[
+            {
+                "id":1,
+                "velicina":"Short"
+            },
+            {
+                "id":2,
+                "velicina":"Tall"
+            },
+            {
+                "id":3,
+                "velicina":"Grande"
+            }
+        ],
+        "cena":8
+    },
+    {
+        "id": 7,
+        "naziv": "Iced Mocha",
+        "slika": {
+            "src":"img/iceMocha.png",
+            "alt":"iceMocha"
+        },
+        "velicineID":[
+           
+            {
+                "id":3,
+                "velicina":"Grande"
+            }
+        ],
+        "cena":13
+    },
+    {
+        "id": 8,
+        "naziv": "Iced Vanilla Latte",
+        "slika": {
+            "src":"img/iceVanilaLatte.png",
+            "alt":"iceVanilaLatte"
+        },
+        "velicineID":[
+          
+            {
+                "id":2,
+                "velicina":"Tall"
+            },
+            {
+                "id":3,
+                "velicina":"Grande"
+            }
+        ],
+        "cena":15
+    },
+    {
+        "id": 9,
+        "naziv": "Chai Tea",
+        "slika": {
+            "src":"img/chaiTea.png",
+            "alt":"chaiTea"
+        },
+        "velicineID":[
+           
+            {
+                "id":2,
+                "velicina":"Tall"
+            },
+            {
+                "id":3,
+                "velicina":"Grande"
+            }
+        ],
+        "cena":6
+    },
+    {
+        "id": 10,
+        "naziv": "Honey Mint Tea",
+        "slika": {
+            "src":"img/honeyMintTea.png",
+            "alt":"honeyMintTea"
+        },
+        "velicineID":[
+          
+            {
+                "id":2,
+                "velicina":"Tall"
+            },
+            {
+                "id":3,
+                "velicina":"Grande"
+            }
+        ],
+        "cena":6
+    },
+    {
+        "id": 11,
+        "naziv": "Matcha Tea",
+        "slika": {
+            "src":"img/matchaTea.png",
+            "alt":"matchaTea"
+        },
+        "velicineID":[
+            
+            {
+                "id":3,
+                "velicina":"Grande"
+            }
+        ],
+        "cena":12
+    },
+    {
+        "id": 12,
+        "naziv": "Royal Tea",
+        "slika": {
+            "src":"img/royalTea.png",
+            "alt":"royalTea"
+        },
+        "velicineID":[
+           
+            {
+                "id":2,
+                "velicina":"Tall"
+            },
+            {
+                "id":3,
+                "velicina":"Grande"
+            }
+        ],
+        "cena":13
+    },
+    {
+        "id": 13,
+        "naziv": "Iced Black Tea",
+        "slika": {
+            "src":"img/iceBlackTea.png",
+            "alt":"iceBlackTea"
+        },
+        "velicineID":[
+            {
+                "id":1,
+                "velicina":"Short"
+            },
+            {
+                "id":2,
+                "velicina":"Tall"
+            },
+            {
+                "id":3,
+                "velicina":"Grande"
+            }
+        ],
+        "cena":18
+    },
+    {
+        "id": 14,
+        "naziv": "Iced Green Tea",
+        "slika": {
+            "src":"img/iceGreenTea.png",
+            "alt":"iceGreenTea"
+        },
+        "velicineID":[
+            {
+                "id":1,
+                "velicina":"Short"
+            },
+            {
+                "id":2,
+                "velicina":"Tall"
+            },
+            {
+                "id":3,
+                "velicina":"Grande"
+            }
+        ],
+        "cena":18
+    },
+    {
+        "id": 15,
+        "naziv": "Iced Matcha Tea",
+        "slika": {
+            "src":"img/iceMatchaTea.png",
+            "alt":"iceMatchaTea"
+        },
+        "velicineID":[
+            {
+                "id":1,
+                "velicina":"Short"
+            },
+            {
+                "id":2,
+                "velicina":"Tall"
+            },
+            {
+                "id":3,
+                "velicina":"Grande"
+            }
+        ],
+        "cena":18
+    },
+    {
+        "id": 16,
+        "naziv": "Iced Passion Tea",
+        "slika": {
+            "src":"img/icePassionTea.png",
+            "alt":"icePassionTea"
+        },
+        "velicineID":[
+            {
+                "id":1,
+                "velicina":"Short"
+            },
+            {
+                "id":2,
+                "velicina":"Tall"
+            },
+            {
+                "id":3,
+                "velicina":"Grande"
+            }
+        ],
+        "cena":18
+    }
+]

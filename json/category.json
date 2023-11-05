@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "naziv": "Hot Coffee"
+    },
+    {
+        "id": 2,
+        "naziv": "Iced Coffee"
+    },
+    {
+        "id": 3,
+        "naziv": "Hot Tea"
+    },
+    {
+        "id": 4,
+        "naziv": "Iced Tea"
+    }
+]
